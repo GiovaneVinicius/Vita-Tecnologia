@@ -11,7 +11,7 @@ O exercício foi realizado utilizando o framework Laravel/PHP.
 4. Acionar o comando "composer install" para instalar as dependencias necessárias;
 5. Acionar o comando "php artisan serve" para rodar o projeto no servidor; 
 
-<h3>Obs: Acabei utilizando uma hospedagem própria, com domínio próprio: (<a href="https://globalprodutos.com.br">globalprodutos.com.br</a>)</h3>
+<h3>Obs: Acabei utilizando uma hospedagem própria para o site e banco de dados, com domínio próprio: (<a href="https://globalprodutos.com">globalprodutos.com</a>)</h3>
 
 <h4>Seguem algumas prints do sistema:</h4>
 
